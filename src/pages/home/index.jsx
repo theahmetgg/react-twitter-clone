@@ -1,7 +1,5 @@
-import MainLayout from "~/layouts/main";
-
 function Home() {
-  return <MainLayout>Home Components</MainLayout>;
+  return <div>Home Components</div>;
 }
 
 export default Home;
